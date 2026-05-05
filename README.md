@@ -31,6 +31,7 @@ This dashboard is designed for managing products, orders, users, analytics, and 
 
 
 project-folder/
+
 │── index.html
 │── dashboard.html
 │── css/
