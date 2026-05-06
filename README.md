@@ -29,7 +29,6 @@ This dashboard is designed for managing products, orders, users, analytics, and 
 
 ## 📂 Project Structure
 
-
 project-folder/
 
 │── index.html
@@ -41,19 +40,20 @@ project-folder/
 │── images/
 │ └── (screenshots & assets)
 
-
 ---
 
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/dashboard.png)
+![Dashboard](assets/img/sections/demo-1.webp)
+
+![Dashboard](assets/img/sections/demo.webp)
 
 ### Product Management
-![Products](images/products.png)
+![Products](assets/img/sections/module-4.png)
 
-### Orders Page
-![Orders](images/orders.png)
+### Profile Page
+![Profile](assets/img/sections/module-23.png)
 
 ---
 
