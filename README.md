@@ -61,12 +61,12 @@ project-folder/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ajith739/Paid-Admin-E-com-dashboard-Html.git
 
 
 2. Open the project folder:
 
-cd your-repo-name
+cd Paid-Admin-E-com-dashboard-Html
 
 
 3. Run the project:
@@ -92,4 +92,4 @@ Unauthorized distribution or resale is prohibited.
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Ajith**
